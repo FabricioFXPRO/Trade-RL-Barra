@@ -23,11 +23,6 @@ Pasta do projeto: **D:\Aprendizado_por_Reforco\TradeM1**
 - **Biblioteca Python:** 3.9.13
 - Keras
     
-    ```python
-    pip install git+git://github.com/keras-rl/keras-rl.git --upgrade --no-deps
-    
-    ```
-    
 - **Dados Utilizados:** M1 com colunas **Open, High, Low, Close, médias móveis, indicadores técnicos (RSI, MACD, Estocástico, Volume), e variáveis personalizadas (PavioSuperior, PavioInferior, Corpo, Delta, etc.)**.
 - **Janela Operacional:** O "Gatilho" determina se o agente pode operar. Nos primeiros 30 minutos, o valor é **1** (operações ativas). Fora desse período, o valor é **0**, encerrando qualquer posição aberta.
 
