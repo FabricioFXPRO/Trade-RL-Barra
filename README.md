@@ -1,5 +1,8 @@
 # Testes de Aprendizado por Reforço para Trading Algorítimo
 
+# Relatório do Projeto
+https://raspy-cheek-f77.notion.site/1257dc6c82b58007a423ee423dadb8bd?v=1257dc6c82b581d08cc7000cf3c71662
+
 ## 1. Introdução
 
 ### 1.1 Início do Projeto e Objetivo
